@@ -8,4 +8,3 @@ split_sent = sent.split(" ")
 for i in range(len(split_sent)-1,-1,-1):
     print(split_sent[i], end = " ")
 
-    
